@@ -7,7 +7,7 @@
 **Original Repository:** [https://github.com/CodebilityDev/codebility-plus](https://github.com/CodebilityDev/codebility-plus) <!-- replace with actual link -->
 > Note: The original repository is privately owned by Codebility. Access may require permission from the team — feel free to reach out if you'd like to verify my contributions directly.
 
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot](./screenshots/external/homepage.png)
 <!-- Screenshot placeholder — add once available -->
 
 ---
@@ -52,9 +52,15 @@ Authored formal technical task documentation (Summary, Objectives, Expected Beha
 
 > Screenshots to be added.
 
-| Homepage | Announcement Modal | Team Management |
+| Homepage | About Us | Services |
 |:---:|:---:|:---:|
-| ![Homepage](./screenshots/homepage.png) | ![Announcement Modal](./screenshots/announcement-modal.png) | ![Team Management](./screenshots/team-management.png) |
+| ![Homepage](./screenshots/external/homepage.png) | ![About Us](./screenshots/external/about-us-page.png) | ![Services](./screenshots/external/services-page.png) |
+| Careers | Hire A Codevs | Book A Meeting |
+| ![Careers](./screenshots/external/careers-page.png) | ![Hire A Codevs](./screenshots/external/hire-a-codevs-page.png) | ![Book A Meeting](./screenshots/external/book-a-meeting-page.png) |
+| Login Portal | Ticket Support | Account Settings |
+| ![Login Portal](./screenshots/internal-portal/login-portal.png) | ![Ticket Support](./screenshots/internal-portal/ticket-support.png) | ![Account Settings](./screenshots/internal-portal/account-settings.png) |
+| Dashboard Portal | Profile Information | Promotional Modal |
+| ![Dashboard Portal](./screenshots/internal-portal/dashboard-portal.png) | ![Profile Information](./screenshots/internal-portal/profile-info.png) | ![Promotional Modal](./screenshots/internal-portal/promotional-modal.png) |
 
 ---
 
